@@ -1,0 +1,27 @@
+{
+    "callRecords": [
+      { "customerId": "C1", "callId": "101", "startTimestamp": 1707390000000, "endTimestamp": 1707391800000 }, 
+      { "customerId": "C1", "callId": "102", "startTimestamp": 1707390600000, "endTimestamp": 1707391200000 }, 
+      { "customerId": "C1", "callId": "103", "startTimestamp": 1707391500000, "endTimestamp": 1707392400000 }, 
+      { "customerId": "C1", "callId": "104", "startTimestamp": 1707393000000, "endTimestamp": 1707393600000 }, 
+      { "customerId": "C1", "callId": "105", "startTimestamp": 1707391200000, "endTimestamp": 1707392200000 },
+  
+      { "customerId": "C2", "callId": "201", "startTimestamp": 1707400000000, "endTimestamp": 1707400600000 }, 
+      { "customerId": "C2", "callId": "202", "startTimestamp": 1707400300000, "endTimestamp": 1707400900000 }, 
+      { "customerId": "C2", "callId": "203", "startTimestamp": 1707400800000, "endTimestamp": 1707401400000 }, 
+      { "customerId": "C2", "callId": "204", "startTimestamp": 1707402000000, "endTimestamp": 1707402600000 },
+      { "customerId": "C2", "callId": "205", "startTimestamp": 1707400500000, "endTimestamp": 1707401100000 },
+  
+      { "customerId": "C3", "callId": "301", "startTimestamp": 1707410000000, "endTimestamp": 1707410600000 },
+      { "customerId": "C3", "callId": "302", "startTimestamp": 1707410100000, "endTimestamp": 1707410500000 },
+      { "customerId": "C3", "callId": "303", "startTimestamp": 1707410200000, "endTimestamp": 1707410800000 },
+      { "customerId": "C3", "callId": "304", "startTimestamp": 1707410900000, "endTimestamp": 1707411500000 },
+  
+      { "customerId": "C4", "callId": "401", "startTimestamp": 1707425000000, "endTimestamp": 1707426000000 },
+      { "customerId": "C4", "callId": "402", "startTimestamp": 1707425100000, "endTimestamp": 1707425500000 },
+      { "customerId": "C4", "callId": "403", "startTimestamp": 1707425200000, "endTimestamp": 1707425700000 },
+      { "customerId": "C4", "callId": "404", "startTimestamp": 1707425300000, "endTimestamp": 1707425900000 },
+      { "customerId": "C4", "callId": "405", "startTimestamp": 1707425800000, "endTimestamp": 1707426200000 }
+    ]
+  }
+  
